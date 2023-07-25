@@ -1,0 +1,65 @@
+Epoch: [0]  [    0/59143]  eta: 2 days, 17:20:39
+lr: 0.000100
+class_error: 100.00
+loss: 54.3824 (54.3824)  loss_ce_dn: 1.1355 (1.1355)  loss_bbox_dn: 1.0825 (1.0825)  loss_giou_dn: 1.2934 (1.2934)
+loss_ce: 1.1709 (1.1709)  loss_bbox: 1.8441 (1.8441)  loss_giou: 1.8269 (1.8269)
+loss_ce_0: 0.9981 (0.9981)  loss_bbox_0: 1.9307 (1.9307)  loss_giou_0: 1.8952 (1.8952)
+loss_ce_dn_0: 1.0729 (1.0729)  loss_bbox_dn_0: 1.0825 (1.0825)  loss_giou_dn_0: 1.2934 (1.2934)
+
+loss_ce_1: 1.0659 (1.0659)  loss_bbox_1: 1.8613 (1.8613)  loss_giou_1: 1.8769 (1.8769)
+loss_ce_dn_1: 1.0757 (1.0757)  loss_bbox_dn_1: 1.0825 (1.0825)  loss_giou_dn_1: 1.2934 (1.2934)
+
+loss_ce_2: 1.0932 (1.0932)  loss_bbox_2: 1.8723 (1.8723)  loss_giou_2: 1.8329 (1.8329)
+loss_ce_dn_2: 1.0950 (1.0950)  loss_bbox_dn_2: 1.0825 (1.0825)  loss_giou_dn_2: 1.2934 (1.2934)
+
+loss_ce_3: 1.0382 (1.0382)  loss_bbox_3: 1.8441 (1.8441)  loss_giou_3: 1.8269 (1.8269)
+loss_ce_dn_3: 1.0192 (1.0192)  loss_bbox_dn_3: 1.0825 (1.0825)  loss_giou_dn_3: 1.2934 (1.2934)
+
+loss_ce_4: 1.1556 (1.1556)  loss_bbox_4: 1.8454 (1.8454)  loss_giou_4: 1.8269 (1.8269)
+loss_ce_dn_4: 1.1390 (1.1390)  loss_bbox_dn_4: 1.0825 (1.0825)  loss_giou_dn_4: 1.2934 (1.2934)
+
+loss_ce_interm: 1.1072 (1.1072)  loss_bbox_interm: 1.8566 (1.8566)  loss_giou_interm: 1.8205 (1.8205)
+loss_ce_dn_unscaled: 1.1355 (1.1355)  loss_bbox_dn_unscaled: 0.2165 (0.2165)  loss_giou_dn_unscaled: 0.6467 (0.6467)
+loss_xy_dn_unscaled: 0.0668 (0.0668)  loss_hw_dn_unscaled: 0.1497 (0.1497)
+cardinality_error_dn_unscaled: 190.5000 (190.5000)
+
+loss_ce_unscaled: 1.1709 (1.1709)  class_error_unscaled: 100.0000 (100.0000)  loss_bbox_unscaled: 0.3688 (0.3688)
+loss_giou_unscaled: 0.9134 (0.9134)  loss_xy_unscaled: 0.1165 (0.1165)
+loss_hw_unscaled: 0.2524 (0.2524)  cardinality_error_unscaled: 890.5000 (890.5000)
+
+loss_ce_0_unscaled: 0.9981 (0.9981)  loss_bbox_0_unscaled: 0.3861 (0.3861)
+loss_giou_0_unscaled: 0.9476 (0.9476)  loss_xy_0_unscaled: 0.1357 (0.1357)
+loss_hw_0_unscaled: 0.2504 (0.2504)  cardinality_error_0_unscaled: 889.0000 (889.0000)
+loss_ce_dn_0_unscaled: 1.0729 (1.0729)  loss_bbox_dn_0_unscaled: 0.2165 (0.2165)  loss_giou_dn_0_unscaled: 0.6467 (0.6467)
+loss_xy_dn_0_unscaled: 0.0668 (0.0668)  loss_hw_dn_0_unscaled: 0.1497 (0.1497)
+cardinality_error_dn_0_unscaled: 190.5000 (190.5000)
+
+loss_ce_1_unscaled: 1.0659 (1.0659)  loss_bbox_1_unscaled: 0.3723 (0.3723)  loss_giou_1_unscaled: 0.9384 (0.9384)
+loss_xy_1_unscaled: 0.1252 (0.1252)  loss_hw_1_unscaled: 0.2471 (0.2471)  cardinality_error_1_unscaled: 890.5000 (890.5000)
+loss_ce_dn_1_unscaled: 1.0757 (1.0757)  loss_bbox_dn_1_unscaled: 0.2165 (0.2165)
+loss_giou_dn_1_unscaled: 0.6467 (0.6467)  loss_xy_dn_1_unscaled: 0.0668 (0.0668)
+loss_hw_dn_1_unscaled: 0.1497 (0.1497)  cardinality_error_dn_1_unscaled: 190.5000 (190.5000)
+
+loss_ce_2_unscaled: 1.0932 (1.0932)  loss_bbox_2_unscaled: 0.3745 (0.3745)  loss_giou_2_unscaled: 0.9164 (0.9164)
+loss_xy_2_unscaled: 0.1188 (0.1188)  loss_hw_2_unscaled: 0.2557 (0.2557)  cardinality_error_2_unscaled: 890.5000 (890.5000)
+loss_ce_dn_2_unscaled: 1.0950 (1.0950)  loss_bbox_dn_2_unscaled: 0.2165 (0.2165)  loss_giou_dn_2_unscaled: 0.6467 (0.6467)
+loss_xy_dn_2_unscaled: 0.0668 (0.0668)  loss_hw_dn_2_unscaled: 0.1497 (0.1497)
+cardinality_error_dn_2_unscaled: 190.5000 (190.5000)
+
+loss_ce_3_unscaled: 1.0382 (1.0382)  loss_bbox_3_unscaled: 0.3688 (0.3688)  loss_giou_3_unscaled: 0.9134 (0.9134)
+loss_xy_3_unscaled: 0.1165 (0.1165)  loss_hw_3_unscaled: 0.2524 (0.2524)  cardinality_error_3_unscaled: 890.5000 (890.5000)
+loss_ce_dn_3_unscaled: 1.0192 (1.0192)  loss_bbox_dn_3_unscaled: 0.2165 (0.2165)
+loss_giou_dn_3_unscaled: 0.6467 (0.6467)  loss_xy_dn_3_unscaled: 0.0668 (0.0668)
+loss_hw_dn_3_unscaled: 0.1497 (0.1497)  cardinality_error_dn_3_unscaled: 190.5000 (190.5000)
+
+loss_ce_4_unscaled: 1.1556 (1.1556)  loss_bbox_4_unscaled: 0.3691 (0.3691)  loss_giou_4_unscaled: 0.9134 (0.9134)
+loss_xy_4_unscaled: 0.1167 (0.1167)  loss_hw_4_unscaled: 0.2524 (0.2524)  cardinality_error_4_unscaled: 890.5000 (890.5000)
+loss_ce_dn_4_unscaled: 1.1390 (1.1390)  loss_bbox_dn_4_unscaled: 0.2165 (0.2165)
+loss_giou_dn_4_unscaled: 0.6467 (0.6467)  loss_xy_dn_4_unscaled: 0.0668 (0.0668)
+loss_hw_dn_4_unscaled: 0.1497 (0.1497)  cardinality_error_dn_4_unscaled: 190.5000 (190.5000)
+
+loss_ce_interm_unscaled: 1.1072 (1.1072)  loss_bbox_interm_unscaled: 0.3713 (0.3713)  loss_giou_interm_unscaled: 0.9102 (0.9102)
+loss_xy_interm_unscaled: 0.1145 (0.1145)  loss_hw_interm_unscaled: 0.2569 (0.2569)
+cardinality_error_interm_unscaled: 890.5000 (890.5000)
+
+time: 3.9775  data: 0.4170  max mem: 3678
